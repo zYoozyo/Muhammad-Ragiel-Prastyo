@@ -3,4 +3,4 @@
 
 ## 📄 Laporan
 
-[![Preview Laporan](assets/img/Preview-Portfolio.png)](docs/laporan.pdf)
+[![Preview Laporan](assets/Preview-lPortfolio.png)](docs/laporan.pdf)
